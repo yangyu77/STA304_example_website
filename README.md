@@ -1,4 +1,4 @@
 # About
 
-This is the website of mine.
-Use blowdown package in r to create.
+This is an example website.
+Use blowdown package in r.
