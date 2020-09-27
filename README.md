@@ -1,2 +1,4 @@
-# STA304_example_website
-Use blowdown package in r
+# About
+
+This is the website of mine.
+Use blowdown package in r to create.
